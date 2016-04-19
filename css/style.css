@@ -1,0 +1,173 @@
+body { font-family: 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro', ƒƒCƒŠƒI, Meiryo, Osaka, '‚l‚r ‚oƒSƒVƒbƒN', 'MS PGothic', sans-serif; margin: 0px; background-image: url(../images/bg1.png); background-position: 0px 0px; background-repeat: repeat; }
+html, body { height: 100%; }
+.vabsmiddle { vertical-align: middle; }
+* { margin: 0px; padding: 0px; }
+img { border: none; }
+a { text-decoration: none; }
+strong { font-family: 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro', ƒƒCƒŠƒI, Meiryo, Osaka, '‚l‚r ‚oƒSƒVƒbƒN', 'MS PGothic', sans-serif; }
+input, textarea, button { outline: none 0px; }
+#headerwrap { padding: 0px; margin: 0px; color: rgb(204, 204, 204); box-shadow: rgb(142, 142, 142) 0px 0px 10px; background-color: rgb(255, 255, 255); }
+#headerwrap .header { margin: 0px auto; width: 1000px; height: 150px; background-color: rgb(255, 255, 255); }
+.topbar-container { width: 960px; height: 30px; margin: 0px auto; padding: 0px 10px 0px 20px; }
+.topbar-container .h1-title { float: left; height: 30px; width: 50%; font-family: 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro', ƒƒCƒŠƒI, Meiryo, Osaka, '‚l‚r ‚oƒSƒVƒbƒN', 'MS PGothic', sans-serif; line-height: 30px; letter-spacing: 1px; color: rgb(102, 102, 102); font-weight: normal; font-size: 8px !important; }
+.enago-cn-flag { margin-left: 5px; margin-right: 5px; background-image: url(../images/index-sprite.png); background-position: -29px -67px; background-repeat: no-repeat; }
+.enago-tw-flag { margin-left: 5px; margin-right: 5px; background-image: url(../images/index-sprite.png); background-position: 0px -67px; background-repeat: no-repeat; }
+.enago-tr-flag { margin-left: 5px; margin-right: 5px; background-image: url(../images/index-sprite.png); background-position: -116px -67px; background-repeat: no-repeat; }
+.enago-en-flag { margin-left: 5px; margin-right: 5px; background-image: url(../images/index-sprite.png); background-position: -58px -67px; background-repeat: no-repeat; }
+.enago-de-flag { margin-left: 5px; margin-right: 5px; background-image: url(../images/index-sprite.png); background-position: -87px -67px; background-repeat: no-repeat; }
+.enago-br-flag { margin-left: 5px; margin-right: 5px; background-image: url(../images/index-sprite.png); background-position: -116px -41px; background-repeat: no-repeat; }
+.enago-kz-flag { margin-left: 5px; margin-right: 5px; background-image: url(../images/index-sprite.png); background-position: 0px -403px; background-repeat: no-repeat; }
+.enago-kr-flag { margin-left: 5px; margin-right: 5px; background-image: url(../images/index-sprite.png); background-position: -39px -403px; background-repeat: no-repeat; }
+.enago-ae-flag { margin-left: 5px; margin-right: 5px; background-image: url(../images/index-sprite.png); background-position: -78px -403px; background-repeat: no-repeat; }
+#headerContainer { width: 980px; padding: 0px 10px 5px; margin: 0px auto auto; height: 115px; float: left; }
+#headerContainer #logo { float: left; display: block; height: 68px; width: 255px; margin-left: 10px; margin-top: 10px; margin-bottom: 5px; }
+#headerContainer #titleWrapper { height: 30px; float: left; width: 520px; display: block; line-height: 30px; clear: both; margin-top: 0px; margin-left: 10px; }
+#headerContainer #titleWrapper p { float: left; font-weight: normal; font-family: 'MS Mincho'; color: rgb(0, 0, 0); padding: 0px; letter-spacing: 1px; display: block; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(204, 204, 204); }
+#headerContainer #titleWrapper p strong { font-weight: bold; color: rgb(132, 33, 63); }
+.header-inner { float: left; width: 670px; }
+.header-inner span { font-weight: bold; font-family: 'MS Mincho'; color: rgb(132, 33, 63); padding: 35px 0px 0px; letter-spacing: 2px; display: inline-block; }
+#rightcontainer { float: right; width: 276px; vertical-align: top; }
+.rightlinks { float: right; }
+.rightlinks a.toplink { text-decoration: underline; color: rgb(44, 24, 26); font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; font-family: ƒƒCƒŠƒI, 'MS Mincho'; padding: 0px 0px 0px 5px; line-height: 16px; margin-right: 7px; }
+.rightlinks a.toplink:hover { text-decoration: none; color: rgb(44, 24, 26); }
+#rightcontainer span.callus { display: block; width: 248px; height: 57px; padding: 0px 10px 3px 0px; background: url(../images/top-call-banner.jpg) 0px 0px no-repeat; }
+#rightcontainer #fontsizer { vertical-align: top; margin-top: 50px; }
+.toplinkseperator { width: 3px; height: 3px; vertical-align: middle; background: url(../images/index-sprite.png) -117px -133px no-repeat rgb(255, 255, 255); }
+.topnewclient { height: 15px; width: 16px; vertical-align: middle; background: url(../images/index-sprite.png) 0px -94px no-repeat rgb(255, 255, 255); }
+.menu_class { cursor: pointer; width: 113px; height: 15px; padding: 0px; vertical-align: middle; background: url(../images/index-sprite.png) 0px -42px no-repeat rgb(255, 255, 255); }
+.anylinkcss { position: absolute; left: 0px; top: 0px; visibility: hidden; border-width: 1px 1px 0px; border-style: solid; border-color: rgb(153, 153, 153); line-height: 18px; z-index: 120; width: 250px; margin-left: -90px; background-color: rgb(255, 255, 255); }
+.anylinkcss ul { margin: 0px; padding: 0px; }
+.anylinkcss li { list-style: none; float: left; width: 120px; background-color: rgb(255, 255, 255); }
+.anylinkcss li.blank { list-style: none; float: left; width: 200px; background-color: rgb(255, 255, 255); }
+.anylinkcss li a { color: rgb(0, 0, 0); text-decoration: none; display: block; font-size: 11px; padding: 0px 5px 5px 0px; }
+.anylinkcss li a:hover { color: rgb(165, 10, 58); }
+.anylinkshadow { position: absolute; left: 0px; top: 0px; z-index: 99; visibility: hidden; margin-left: -90px; background: rgb(0, 0, 0); }
+.breadcrumbwrap { width: 100%; height: 28px; margin: 0px auto; border-top-width: 0px; border-top-color: rgb(238, 238, 238); border-top-style: solid; display: block; clear: both; background-image: url(../images/index-sprite.png); background-position: 0px -214px; background-repeat: repeat-x; }
+#breadcrumb { width: 1000px; height: 28px; margin: 0px auto; display: block; clear: both; color: rgb(255, 255, 255); line-height: 28px; font-size: 11px; font-family: ƒƒCƒŠƒI, 'MS PGothic', 'MS Mincho'; }
+#breadcrumb span { padding-left: 20px; }
+#breadcrumb a { text-decoration: none; color: rgb(255, 255, 255); }
+#layout-wrapper { margin: 0px auto; width: 980px; }
+#full-columns-wrapper { margin: 20px 0px 0px; height: auto; }
+#layout-wrapper-interviews { margin: 0px auto; width: 1000px; }
+.subnav .items a.first { height: 39px; width: 227px; display: block; padding-left: 20px; margin-right: 0px; padding-right: 0px; letter-spacing: 1pt; cursor: pointer; border-width: 1px; border-style: solid; border-color: rgb(231, 231, 231) rgb(231, 231, 231) rgb(231, 231, 231) rgb(222, 221, 221); font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: 39px; font-family: ƒƒCƒŠƒI, 'MS PGothic', 'MS Mincho'; color: rgb(0, 0, 0); text-decoration: underline; background-image: url(../images/itembg.png); background-position: 0px 0px; background-repeat: no-repeat; }
+.subnav .items a.first:hover { color: rgb(255, 255, 255); text-decoration: none; background-image: url(../images/itembg-hover.png); background-position: 0px 0px; background-repeat: no-repeat; }
+#full-maincontentcontainer { float: left; width: 980px; margin-left: 10px; margin-right: 0px; font-size: 14px; margin-top: 0px; background: #fff; border:1px solid #ccc }
+#floatMenu {
+    left: 52%;
+    margin-left: 474px;
+    position: absolute;
+    top: 294px;
+    width: 33px;
+}
+.commonPageTitle { font-weight: bold; font-style: normal; font-variant: normal; line-height: normal; font-family: 'MS PMincho'; color: rgb(155, 38, 73); font-size: 28px; margin: 33px 0px 0px; padding-left: 15px; display: block; text-align: left; letter-spacing: 0px; }
+.commonPageTitle span.bankPayment { display: block; float: right; width: 32px; height: 35px; margin: -3px 190px 0px 0px; background: url(../images/sidebar-banners-sprite.png) -204px -470px no-repeat; }
+.quotation-callus-banner .inner .callus { height: 113px; width: 620px; margin-left: 2px; background: url(../images/bottom-call-banner.jpg); }
+.quotation-callus-banner2 .inner .callus { height: 113px; width: 620px; margin-left: 2px; background: url(../images/bottom-call-banner.jpg); }
+#footerwrap { color: rgb(0, 0, 0); padding: 0px; font-size: 12px; box-shadow: rgb(142, 142, 142) 0px 8px 10px 5px; margin-bottom: 0px; font-family: 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro', ƒƒCƒŠƒI, Meiryo, Osaka, '‚l‚r ‚oƒSƒVƒbƒN', 'MS PGothic', sans-serif; background-color: rgb(224, 220, 221); }
+#footerwrap .footerContainer { margin: 0px auto; width: 1000px; height: 375px; padding: 0px; background-color: rgb(224, 220, 221); }
+.footertoplinks { height: 30px; width: 980px; margin-left: 0px; margin-top: 10px; margin-bottom: 0px; text-align: center; color: rgb(191, 187, 188); line-height: 30px; font-family: 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro', ƒƒCƒŠƒI, Meiryo, Osaka, '‚l‚r ‚oƒSƒVƒbƒN', 'MS PGothic', sans-serif; }
+.footertoplinks { height: 30px; width: 980px; margin-left: 0px; margin-top: 10px; margin-bottom: 0px; text-align: center; color: rgb(191, 187, 188); line-height: 30px; }
+.footertoplinks a { text-decoration: none; color: rgb(0, 0, 0); font-size: 10px; letter-spacing: 1px; font-family: ƒƒCƒŠƒI, 'MS PGothic', 'MS Mincho'; padding: 0px 5px; }
+.footertoplinks a:hover { text-decoration: underline; }
+#footerListContainer { display: block; height: 120px; width: 100%; margin-left: 0px; padding-top: 10px; padding-left: 0px; }
+#footerLogos { display: block; height: 80px; width: 980px; margin-left: 0px; margin-top: 10px; padding-top: 10px; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(204, 204, 204); text-align: center; padding-left: 0px; background-color: rgb(255, 255, 255); }
+#footerLogos .leftlogos { float: left; width: 48%; padding-left: 10px; text-align: left; height: 50px; }
+#footerLogos .rightlogos { float: right; width: 48%; text-align: right; padding-right: 20px; height: 50px; margin-top: 0px; }
+.footerlogotext { font-size: 10px; color: rgb(0, 0, 0); letter-spacing: 0px; font-family: 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro', ƒƒCƒŠƒI, Meiryo, Osaka, '‚l‚r ‚oƒSƒVƒbƒN', 'MS PGothic', sans-serif; }
+.footerlogotext a { font-size: 10px; color: rgb(0, 0, 0); text-decoration: none; font-family: 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro', ƒƒCƒŠƒI, Meiryo, Osaka, '‚l‚r ‚oƒSƒVƒbƒN', 'MS PGothic', sans-serif; }
+.footerlogotext a:hover { font-size: 10px; color: rgb(0, 0, 0); font-family: 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro', ƒƒCƒŠƒI, Meiryo, Osaka, '‚l‚r ‚oƒSƒVƒbƒN', 'MS PGothic', sans-serif; }
+.footerlogotextsmall { font-size: 10px; color: rgb(0, 0, 0); letter-spacing: 0px; font-family: 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro', ƒƒCƒŠƒI, Meiryo, Osaka, '‚l‚r ‚oƒSƒVƒbƒN', 'MS PGothic', sans-serif; }
+.footerlogotextsmall a { font-size: 10px; color: rgb(0, 0, 0); text-decoration: none; font-family: 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro', ƒƒCƒŠƒI, Meiryo, Osaka, '‚l‚r ‚oƒSƒVƒbƒN', 'MS PGothic', sans-serif; }
+.footerlogotextsmall a:hover { font-size: 10px; color: rgb(0, 0, 0); text-decoration: underline; font-family: 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro', ƒƒCƒŠƒI, Meiryo, Osaka, '‚l‚r ‚oƒSƒVƒbƒN', 'MS PGothic', sans-serif; }
+.footerTitleSpan { color: rgb(132, 33, 63); font-size: 12px; font-weight: bold; font-family: 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro', ƒƒCƒŠƒI, Meiryo, Osaka, '‚l‚r ‚oƒSƒVƒbƒN', 'MS PGothic', sans-serif; }
+.footerList1 { width: 450px; padding-left: 20px; margin-right: 10px; text-align: left; display: inline-block; height: 110px; float: left; font-family: 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro', ƒƒCƒŠƒI, Meiryo, Osaka, '‚l‚r ‚oƒSƒVƒbƒN', 'MS PGothic', sans-serif; }
+.footerList1 p { margin-top: 10px; font-family: 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro', ƒƒCƒŠƒI, Meiryo, Osaka, '‚l‚r ‚oƒSƒVƒbƒN', 'MS PGothic', sans-serif; }
+a.generalLink { color: rgb(0, 0, 0); font-size: 12px; font-family: ƒƒCƒŠƒI, 'MS Mincho'; letter-spacing: 0px; text-decoration: none; }
+a.generalLink:hover { text-decoration: underline; }
+a.footerLink { text-decoration: underline; color: rgb(0, 0, 0); font-size: 11px; font-family: ƒƒCƒŠƒI, 'MS Mincho'; }
+a.footerLink:hover { color: rgb(170, 170, 170); }
+.footerList2 { padding-left: 10px; margin-right: 10px; text-align: left; display: inline-block; height: 110px; float: left; }
+.footerList3 { padding-left: 10px; margin-right: 10px; text-align: left; display: inline-block; height: 110px; float: left; }
+.footerList4 { width: 980px; clear: both; margin: 10px 0px 10px 20px; text-align: left; font-family: 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro', ƒƒCƒŠƒI, Meiryo, Osaka, '‚l‚r ‚oƒSƒVƒbƒN', 'MS PGothic', sans-serif; }
+.footerLink { text-decoration: none; color: rgb(0, 0, 0); }
+.footerLink:hover { color: rgb(170, 170, 170); }
+.footerCopyright { color: rgb(119, 116, 117); font-style: normal; font-variant: normal; font-weight: normal; font-size: 9px; line-height: normal; font-family: ƒƒCƒŠƒI, 'MS Mincho'; margin-top: 0px; padding: 0px 20px 0px 0px; letter-spacing: 0px; width: 960px; display: block; text-align: left; }
+.footerCopyright a { color: rgb(119, 116, 117); text-decoration: none; }
+.footerCopyright a:hover { color: rgb(0, 0, 0); text-decoration: none; }
+.sprite { background-image: url(../images/footer-sprite.png); }
+.iso { width: 55px; height: 46px; margin: 3px 20px; background-position: -117px -128px; }
+.verisign { width: 82px; height: 38px; margin: 7px 6px 7px 7px; background-position: -176px -128px; }
+.enagologo { width: 112px; height: 22px; margin: 7px 9px 6px; background-position: -16px -273px; }
+.voxtablogo { width: 111px; height: 28px; margin: 4px 9px 3px 10px; background-position: -119px -239px; }
+.ulatuslogo { width: 114px; height: 29px; margin: 3px 8px; background-position: -3px -239px; }
+.maruzen { width: 130px; height: 30px; background-position: -138px -267px; }
+.nri { width: 130px; height: 30px; background-position: -4px -334px; }
+.dnp { width: 130px; height: 30px; background-position: -4px -300px; }
+.nhk { width: 130px; height: 30px; background-position: -138px -300px; }
+.validlogo { width: 88px; height: 31px; margin-bottom: 10px; background-position: -138px -334px; }
+#gototop { display: block; padding: 0px; height: 40px; width: 960px; margin: 0px auto; text-align: right; background-image: url(../images/layout-bottom.png); background-position: 0px 0px; background-repeat: no-repeat; }
+#gototop img { margin-right: 45px; height: 32px; width: 138px; background-image: url(../images/index-sprite.png); background-position: 0px 0px; background-repeat: no-repeat; }
+.last { margin: 0px 0px 6px !important; }
+#example-one ul li.green a.current, #example-one ul.featured li a:hover { }
+#example-one ul li.blue a.current, #example-one ul.core li a:hover { }
+#example-one ul li.copper a.current, #example-one ul.jquerytuts li a:hover { }
+.clear { clear: both; display: block; overflow: hidden; visibility: hidden; width: 0px; height: 0px; }
+.marb20 { margin-bottom: 20px; }
+.mart10 { margin-top: 10px; }
+.img-border { border: 2px solid rgb(204, 204, 204); }
+.padL20 { padding-left: 20px; }
+.form23 #floatMenu, .hideflomenu #floatMenu, .hideflomenu #fmjfloatMenu { display: none; }
+#main-nav { background: url(../images/index-sprite.png) 0px -292px repeat-x rgb(158, 13, 57); }
+#main-nav ul { width: 1000px; list-style: none; margin: 0px auto; padding: 0px; border-left-width: 1px; border-left-style: solid; border-left-color: rgb(133, 32, 63); }
+#main-nav li { float: left; position: relative; clear: none; -webkit-transition: all 0.2s ease; transition: all 0.2s ease; }
+#main-nav li a { color: rgb(255, 255, 255); display: block; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: 30px; font-family: 'MS Mincho'; padding: 0px 30px; text-decoration: none; letter-spacing: 1px; border-right-width: 1px; border-right-style: solid; border-right-color: rgb(133, 32, 63); border-left-width: 2px; border-left-style: solid; border-left-color: rgb(172, 3, 54); -webkit-transition: all 0.5s ease; transition: all 0.5s ease; }
+#main-nav li a span { font-family: Arial, Helvetica, sans-serif; }
+#main-nav ul ul { display: none; position: absolute; top: 30px; left: 0px; float: left; width: 250px; z-index: 99999; clear: none; border: 0px none; padding: 0px; margin: 0px; box-shadow: rgb(51, 51, 51) 0px 2px 10px; }
+#main-nav ul ul li { min-width: 230px; }
+#main-nav ul ul ul { left: 100%; top: 0px; }
+#main-nav ul ul a { line-height: 1.3em; padding: 8px 10px 8px 30px; width: 210px; height: auto; color: rgb(255, 255, 255); border-width: 0px 0px 1px; border-bottom-color: rgb(87, 52, 57); border-bottom-style: solid; background: url(../images/nav-drop-bg.jpg) 15px 10px no-repeat rgb(71, 37, 42); }
+#main-nav ul ul a.sub-cat { padding: 5px 10px 5px 35px; width: 205px; background-image: none; }
+#main-nav ul ul a.sub-cat:hover { background-image: none; }
+#main-nav li:hover > a, #main-nav li a.active { color: rgb(255, 255, 255); background: url(../images/nav-bg-hover.png) 0px 0px repeat-x; }
+#main-nav ul ul :hover > a { color: rgb(255, 255, 255); background: url(../images/nav-drop-hover-bg.jpg) 15px 10px no-repeat rgb(147, 22, 60); }
+#main-nav ul li:hover > ul { display: block; }
+#main-nav ul ul li a.sub-head { position: relative; }
+#main-nav ul ul li a.sub-head span.sub-head-arrow { display: block; position: absolute; width: 8px; height: 10px; top: 12px; right: 10px; background: url(../images/nav-sub-head-arrow.png) 0px 0px no-repeat; }
+#main-nav ul li.last { margin-bottom: 0px !important; }
+#main-nav ul li.last ul { left: -128px; }
+* { font-family: Arial, Helvetica, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; padding: 0px; }
+img { border: none; }
+a { text-decoration: none; }
+.clearBoth { clear: both; }
+.generalLink { color: rgb(0, 0, 0); text-decoration: none; cursor: pointer; font-family: ƒƒCƒŠƒI, Meiryo, 'Hiragino Kaku Gothic Pro', 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', '‚l‚r ‚oƒSƒVƒbƒN', 'Lucida Grande', 'Lucida Sans Unicode', Arial, Verdana, sans-serif; }
+.generalLink:hover { color: rgb(0, 0, 0); text-decoration: underline; cursor: pointer; font-family: ƒƒCƒŠƒI, Meiryo, 'Hiragino Kaku Gothic Pro', 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', '‚l‚r ‚oƒSƒVƒbƒN', 'Lucida Grande', 'Lucida Sans Unicode', Arial, Verdana, sans-serif; }
+.vabsmiddle { vertical-align: middle !important; }
+.mart10 { margin-top: 10px; }
+strong { font-weight: bold; }
+.vabsmiddle { vertical-align: middle; }
+h4 { width: auto; height: 20px; padding: 0px; font-size: 12px; font-weight: bold; letter-spacing: 1px; margin-bottom: 10px; color: rgb(132, 33, 63); }
+h4 span { padding-top: 4px; padding-right: 5px; }
+#innerdiv-full { float: left; margin: 0px; padding: 0px 0px 10px 10px; width: 960px; background: rgb(255, 255, 255); }
+#navigationTreeContainernew .prev { color: rgb(132, 33, 63); }
+#navigationTreeContainernew .current { color: rgb(49, 106, 197); }
+.marb20 { margin-bottom: 20px !important; }
+.qa-Wrap .qa-box.last { border: 0px none; padding-top: 0px !important; }
+label { font-family: 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', 'Hiragino Kaku Gothic Pro', ƒƒCƒŠƒI, Meiryo, Osaka, '‚l‚r ‚oƒSƒVƒbƒN', 'MS PGothic', sans-serif; }
+.footertoplinks a { font-size: 11px; }
+label { }
+input { vertical-align: -0.1em; }
+.existing-login{ display:block; background:url(../images/signin/existing-client-banner.png) no-repeat 0 0; width:960px; height:63px; cursor:pointer; margin: 10px 0 20px 10px;}
+.existing-login a{ text-decoration:none; color:#000; line-height:33px; font-size:14px; font-family: ƒƒCƒŠƒI, 'MS PGothic', 'MS Mincho'; padding: 21px 0 0 60px; width:625px; display:block;}
+.commonPara {
+    color: #313131;
+    font: 12px/175% "ƒƒCƒŠƒI","MS PGothic","MS Mincho";
+    margin: 10px 20px 10px 0;
+    width: 100%;
+}
+#note {display: none;}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+     /* Safari only override */
+    ::i-block-chrome,#note {display: block; visibility:visible}
+}
+

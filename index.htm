@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="">
+    <script src="js/jquery-1.11.1.min.js"></script>
+</head>
+
+<body>
+   
+   hi 
+    <script>
+        
+        $(document).ready(function(){
+            alert('i m ready')
+        });
+        
+        
+    $(window).unload( function(){
+        alert('wait dude');
+    });
+    
+        
+        window.onbeforeunload = function () {
+        return "Are you sure?";
+    }
+
+    
+    </script>
+</body>
+</html>
